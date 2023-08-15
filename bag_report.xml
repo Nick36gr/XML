@@ -1,0 +1,9 @@
+<bag_report>
+  <ID>1</ID>
+  <header>ЧТО?ГДЕ?КОГДА?</header>
+  <STEPS>1,2,3</STEPS>
+  <AR>ЧТО СЕЙЧАС</AR>
+  <ER>ЧТО ДОЛЖНО БЫТЬ</ER>
+  <ENVIRONMENT>Windows 10 Browers Google Chrome v.115.0.5790.171</ENVIRONMENT>
+  <COMMENT>SCRIN BAG</COMMENT>
+</bag_report>
